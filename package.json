@@ -1,0 +1,22 @@
+{
+  "name": "packlify",
+  "version": "1.0.0",
+  "description": "A part of the packlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aownzaidi/packlify.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Aown Ali",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Aownzaidi/packlify/issues"
+  },
+  "homepage": "https://github.com/Aownzaidi/packlify#readme"
+}
